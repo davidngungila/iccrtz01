@@ -18,13 +18,14 @@
                 </div>
                 <div class="relative z-10 max-w-7xl mx-auto px-6 w-full pt-20">
                     <div class="max-w-3xl slide-content">
-                        <span class="inline-block px-4 py-1.5 bg-yellow-400/20 text-yellow-400 rounded-full text-xs font-black tracking-widest uppercase mb-6 border border-yellow-400/30 font-accent">Spiritual Growth</span>
-                        <h1 class="text-4xl md:text-6xl lg:text-7xl font-display text-white mb-8 leading-none tracking-tight">
-                            Nurture Your <span class="text-gradient-primary animate-text-glow">Faith Journey</span>
+                        <h1 class="text-4xl md:text-6xl lg:text-7xl font-display text-white mb-4 leading-none tracking-tight">
+                            Spiritual Growth
                         </h1>
+                        <h2 class="text-2xl md:text-3xl lg:text-4xl font-heading text-yellow-400 mb-8 leading-tight">
+                            Excel in Faith & Life
+                        </h2>
                         <p class="text-xl text-blue-100 mb-12 leading-relaxed body-text-relaxed">
-                            Join our vibrant community of Catholic students experiencing spiritual growth, 
-                            prayer fellowship, and deepening relationship with God across Tanzania's universities.
+                            Balance your spiritual journey with strong community roots. Access mentorship, prayer resources, and fellowship support to grow in both faith and life.
                         </p>
                         <div class="flex flex-col sm:flex-row items-center gap-4">
                             <a href="/students/join" class="w-full sm:w-auto px-10 py-4 bg-yellow-400 text-blue-900 font-black rounded-full hover:bg-yellow-300 shadow-xl shadow-yellow-400/30 transition-all text-center transform hover:scale-105 btn-text-accent">
@@ -51,13 +52,14 @@
                 </div>
                 <div class="relative z-10 max-w-7xl mx-auto px-6 w-full pt-20">
                     <div class="max-w-3xl slide-content">
-                        <span class="inline-block px-4 py-1.5 bg-yellow-400/20 text-yellow-400 rounded-full text-xs font-black tracking-widest uppercase mb-6 border border-yellow-400/30 font-accent">Leadership Excellence</span>
-                        <h1 class="text-4xl md:text-6xl lg:text-7xl font-display text-white mb-8 leading-none tracking-tight">
-                            Build Tomorrow's <span class="text-gradient-primary animate-text-glow">Christian Leaders</span>
+                        <h1 class="text-4xl md:text-6xl lg:text-7xl font-display text-white mb-4 leading-none tracking-tight">
+                            Academic Success
                         </h1>
+                        <h2 class="text-2xl md:text-3xl lg:text-4xl font-heading text-yellow-400 mb-8 leading-tight">
+                            Excel in Studies & Faith
+                        </h2>
                         <p class="text-xl text-blue-100 mb-12 leading-relaxed body-text-relaxed">
-                            Our comprehensive leadership programs equip students with the skills, values, and 
-                            spiritual foundation needed to become transformative leaders in their communities.
+                            Balance your academic journey with strong spiritual roots. Access mentorship, study resources, and prayer support to excel in both your studies and faith life.
                         </p>
                         <div class="flex flex-col sm:flex-row items-center gap-4">
                             <a href="/students/leadership" class="w-full sm:w-auto px-10 py-4 bg-yellow-400 text-blue-900 font-black rounded-full hover:bg-yellow-300 shadow-xl shadow-yellow-400/30 transition-all text-center transform hover:scale-105 btn-text-accent">
@@ -84,13 +86,14 @@
                 </div>
                 <div class="relative z-10 max-w-7xl mx-auto px-6 w-full pt-20">
                     <div class="max-w-3xl slide-content">
-                        <span class="inline-block px-4 py-1.5 bg-yellow-400/20 text-yellow-400 rounded-full text-xs font-black tracking-widest uppercase mb-6 border border-yellow-400/30 font-accent">Service in Action</span>
-                        <h1 class="text-4xl md:text-6xl lg:text-7xl font-display text-white mb-8 leading-none tracking-tight">
-                            Transform Through <span class="text-gradient-primary animate-text-glow">Service & Love</span>
+                        <h1 class="text-4xl md:text-6xl lg:text-7xl font-display text-white mb-4 leading-none tracking-tight">
+                            Community Service
                         </h1>
+                        <h2 class="text-2xl md:text-3xl lg:text-4xl font-heading text-yellow-400 mb-8 leading-tight">
+                            Serve with Love & Purpose
+                        </h2>
                         <p class="text-xl text-blue-100 mb-12 leading-relaxed body-text-relaxed">
-                            Experience the joy of serving others through our outreach programs, community service 
-                            projects, and mission trips that make a real difference in people's lives.
+                            Transform your life through serving others. Join our outreach programs, community projects, and mission trips that make a real difference while strengthening your faith.
                         </p>
                         <div class="flex flex-col sm:flex-row items-center gap-4">
                             <a href="/projects" class="w-full sm:w-auto px-10 py-4 bg-yellow-400 text-blue-900 font-black rounded-full hover:bg-yellow-300 shadow-xl shadow-yellow-400/30 transition-all text-center transform hover:scale-105 btn-text-accent">
