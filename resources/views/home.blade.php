@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
-@section('title', 'Home - Catholic Charismatic Tanzania Universities Fellowship')
-@section('description', 'Welcome to Catholic Charismatic Tanzania Universities Fellowship - empowering students and alumni in faith and service.')
+@section('title', 'Home - Inter-Colleges Catholic Charismatic Renewal Tanzania')
+@section('description', 'Welcome to Inter-Colleges Catholic Charismatic Renewal Tanzania - Uniting Catholic students in colleges and higher education institutions through the Holy Spirit – Unity, Love, Evangelization.')
 
 @section('content')
 <!-- Professional Hero Section with Advanced Slider -->
@@ -1875,10 +1875,10 @@
                 <div class="lg:col-span-1">
                     <div class="mb-6">
                         <h3 class="text-2xl font-black font-display text-white mb-2">ICCRTZ</h3>
-                        <p class="text-blue-200 text-sm font-accent">Inter-University Catholic Chaplaincy Rwanda Tanzania Zambia</p>
+                        <p class="text-blue-200 text-sm font-accent">Inter-Colleges Catholic Charismatic Renewal Tanzania</p>
                     </div>
                     <p class="text-blue-100 mb-6 leading-relaxed">
-                        Empowering Catholic students and alumni across Tanzania to grow in faith, leadership, and service to our communities.
+                        Uniting Catholic students in colleges and higher education institutions through the Holy Spirit – Unity, Love, Evangelization.
                     </p>
                     <div class="flex space-x-4">
                         <a href="#" class="w-10 h-10 bg-white/10 backdrop-blur-sm rounded-full flex items-center justify-center hover:bg-white/20 transition-all transform hover:scale-110">
@@ -2003,7 +2003,7 @@
             <div class="border-t border-white/10 pt-8">
                 <div class="flex flex-col md:flex-row justify-between items-center">
                     <div class="text-blue-200 text-sm mb-4 md:mb-0">
-                        © 2024 ICCRTZ. All rights reserved. Empowering Catholic students across Tanzania.
+                        © 2024 ICCRTZ. All rights reserved. Uniting Catholic students through the Holy Spirit.
                     </div>
                     <div class="flex flex-wrap items-center gap-6 text-sm">
                         <a href="/privacy" class="text-blue-200 hover:text-white transition-colors">Privacy Policy</a>
